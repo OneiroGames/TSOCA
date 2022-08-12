@@ -1,0 +1,14 @@
+.git
+.idea
+.vs
+.vscode
+.PVS-Studio
+
+bin/
+build/
+cmake-build-*/
+out/
+CMakeSettings.json
+
+Folder.DotSettings.user
+Folder.DotSettings
