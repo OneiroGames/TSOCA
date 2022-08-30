@@ -32,6 +32,11 @@
 
 ![img2](https://user-images.githubusercontent.com/74720936/187728164-6886f278-e19f-4828-9b68-1f8fada2c200.png)
 
+<h3>Использованные ресурсы</h3>
+
+- Кухня — https://noranekogames.itch.io/yumebackground
+- Офис https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=17302
+
 <h3>Благодарности</h3>
 <div align="center">
   <a href="https://jetbrains.com"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width="100" height="100" hspace="5"vspace="5"></a>
