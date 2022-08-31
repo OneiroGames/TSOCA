@@ -1,0 +1,4 @@
+[submodule "ThirdParty/Oneiro"]
+	path = ThirdParty/Oneiro
+	url = https://github.com/OneiroGames/Oneiro
+	branch = jam
