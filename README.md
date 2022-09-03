@@ -35,7 +35,7 @@
 <h3>Использованные ресурсы</h3>
 
 - Кухня — https://noranekogames.itch.io/yumebackground
-- Офис https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=17302
+- Офис  https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=17302
 
 <h3>Благодарности</h3>
 <div align="center">
